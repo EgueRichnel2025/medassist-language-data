@@ -1,0 +1,12 @@
+services:
+  mongo:
+    image: mongo:8
+    container_name: medassist-language-mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - medassist_language_mongo:/data/db
+
+volumes:
+  medassist_language_mongo:
