@@ -1,0 +1,182 @@
+[
+  {
+    "id": "SYM-01",
+    "type": "model_symptom",
+    "symptom_fr": "Fièvre",
+    "sentence_fr": "J'ai de la fièvre depuis hier."
+  },
+  {
+    "id": "SYM-02",
+    "type": "model_symptom",
+    "symptom_fr": "Frissons",
+    "sentence_fr": "J'ai des frissons."
+  },
+  {
+    "id": "SYM-03",
+    "type": "model_symptom",
+    "symptom_fr": "Fatigue",
+    "sentence_fr": "Je me sens très fatigué."
+  },
+  {
+    "id": "SYM-04",
+    "type": "model_symptom",
+    "symptom_fr": "Perte d'appétit",
+    "sentence_fr": "Je n'ai plus faim du tout."
+  },
+  {
+    "id": "SYM-05",
+    "type": "model_symptom",
+    "symptom_fr": "Transpiration excessive",
+    "sentence_fr": "Je transpire beaucoup, même sans effort."
+  },
+  {
+    "id": "SYM-06",
+    "type": "model_symptom",
+    "symptom_fr": "Douleur au ventre",
+    "sentence_fr": "J'ai mal au ventre."
+  },
+  {
+    "id": "SYM-07",
+    "type": "model_symptom",
+    "symptom_fr": "Diarrhée",
+    "sentence_fr": "J'ai la diarrhée depuis ce matin."
+  },
+  {
+    "id": "SYM-08",
+    "type": "model_symptom",
+    "symptom_fr": "Vomissements",
+    "sentence_fr": "J'ai vomi deux fois aujourd'hui."
+  },
+  {
+    "id": "SYM-09",
+    "type": "model_symptom",
+    "symptom_fr": "Nausées",
+    "sentence_fr": "J'ai des nausées."
+  },
+  {
+    "id": "SYM-10",
+    "type": "model_symptom",
+    "symptom_fr": "Constipation",
+    "sentence_fr": "Je n'arrive pas à aller aux toilettes depuis 3 jours."
+  },
+  {
+    "id": "SYM-11",
+    "type": "model_symptom",
+    "symptom_fr": "Toux",
+    "sentence_fr": "Je tousse beaucoup."
+  },
+  {
+    "id": "SYM-12",
+    "type": "model_symptom",
+    "symptom_fr": "Mal de gorge",
+    "sentence_fr": "J'ai mal à la gorge."
+  },
+  {
+    "id": "SYM-13",
+    "type": "model_symptom",
+    "symptom_fr": "Nez qui coule",
+    "sentence_fr": "Mon nez coule sans arrêt."
+  },
+  {
+    "id": "SYM-14",
+    "type": "model_symptom",
+    "symptom_fr": "Mal de tête",
+    "sentence_fr": "J'ai très mal à la tête."
+  },
+  {
+    "id": "SYM-15",
+    "type": "model_symptom",
+    "symptom_fr": "Vertiges",
+    "sentence_fr": "J'ai des vertiges quand je me lève."
+  },
+  {
+    "id": "SYM-16",
+    "type": "model_symptom",
+    "symptom_fr": "Confusion, tête qui tourne",
+    "sentence_fr": "J'ai la tête confuse, je n'arrive pas à réfléchir."
+  },
+  {
+    "id": "SYM-17",
+    "type": "model_symptom",
+    "symptom_fr": "Douleur en urinant",
+    "sentence_fr": "Ça brûle quand j'urine."
+  },
+  {
+    "id": "SYM-18",
+    "type": "model_symptom",
+    "symptom_fr": "Envie fréquente d'uriner",
+    "sentence_fr": "J'ai envie d'uriner très souvent."
+  },
+  {
+    "id": "SYM-19",
+    "type": "model_symptom",
+    "symptom_fr": "Urine trouble",
+    "sentence_fr": "Mon urine est trouble."
+  },
+  {
+    "id": "SYM-20",
+    "type": "model_symptom",
+    "symptom_fr": "Douleur au bas du dos",
+    "sentence_fr": "J'ai mal au bas du dos."
+  },
+  {
+    "id": "SYM-21",
+    "type": "model_symptom",
+    "symptom_fr": "Démangeaisons",
+    "sentence_fr": "Ça me démange partout."
+  },
+  {
+    "id": "SYM-22",
+    "type": "model_symptom",
+    "symptom_fr": "Vision trouble",
+    "sentence_fr": "Je vois flou."
+  },
+  {
+    "id": "SYM-23",
+    "type": "model_symptom",
+    "symptom_fr": "Douleurs musculaires",
+    "sentence_fr": "J'ai mal aux muscles."
+  },
+  {
+    "id": "SYM-24",
+    "type": "model_symptom",
+    "symptom_fr": "Courbatures",
+    "sentence_fr": "Tout mon corps me fait mal, comme après un effort."
+  },
+  {
+    "id": "SYM-25",
+    "type": "model_symptom",
+    "symptom_fr": "Saignement abondant",
+    "sentence_fr": "Je saigne beaucoup et ça ne s'arrête pas."
+  },
+  {
+    "id": "URG-01",
+    "type": "emergency_sign",
+    "symptom_fr": "Difficulté à respirer (grave)",
+    "sentence_fr": "J'ai beaucoup de mal à respirer, ça m'inquiète."
+  },
+  {
+    "id": "URG-02",
+    "type": "emergency_sign",
+    "symptom_fr": "Perte de conscience",
+    "sentence_fr": "Il s'est évanoui tout à l'heure."
+  },
+  {
+    "id": "URG-03",
+    "type": "emergency_sign",
+    "symptom_fr": "Douleur très forte à la poitrine",
+    "sentence_fr": "J'ai une douleur très forte dans la poitrine."
+  },
+  {
+    "id": "URG-04",
+    "type": "emergency_sign",
+    "symptom_fr": "Convulsions",
+    "sentence_fr": "Il a eu des convulsions."
+  },
+  {
+    "id": "URG-05",
+    "type": "emergency_sign",
+    "symptom_fr": "Nuque raide avec forte fièvre",
+    "sentence_fr": "Sa nuque est toute raide et il a une très forte fièvre."
+  }
+]
