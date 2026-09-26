@@ -1,1 +1,242 @@
-[]
+[
+  {
+    "symptom_id": "SYM-01",
+    "translation": "Avivɔ ɖò sinsin mi wɛ̀ sín sɔ̀ ɔ́",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-f.html",
+    "source_note": "Assemblage candidat à partir de la formulation attestée pour « J’ai de la fièvre » et de l’expression attestée « depuis hier ». À valider par un locuteur natif."
+  },
+  {
+    "symptom_id": "SYM-02",
+    "translation": "Wutú ce slɔ́ fún",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-f.html",
+    "source_note": "Formulation attestée pour « J’ai des frissons. »"
+  },
+  {
+    "symptom_id": "SYM-03",
+    "translation": "Nŭ ci kɔ nú mì",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-f.html",
+    "source_note": "Formulation attestée pour « Je suis fatigué. »"
+  },
+  {
+    "symptom_id": "SYM-04",
+    "translation": "Xo gɔ́ mì",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-f.html",
+    "source_note": "Formulation attestée pour « Je n’ai plus faim. »"
+  },
+  {
+    "symptom_id": "SYM-05",
+    "translation": "Un ɖò dɛ̌nkɔxɛ́ wɛ̀",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-s.html",
+    "source_note": "Candidat construit à partir des formes attestées liées à la sueur/transpiration. La formulation complète correspondant exactement à la phrase française doit être validée."
+  },
+  {
+    "symptom_id": "SYM-06",
+    "translation": "Xomɛ ce wli mì",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-m.html",
+    "source_note": "Candidat construit à partir des formulations attestées autour de « mal au ventre »."
+  },
+  {
+    "symptom_id": "SYM-07",
+    "translation": "Un ɖò sláslá wɛ̀",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-d.html",
+    "source_note": "La source donne « E ɖò sláslá wɛ̀ » et « E ɖò xomɛ slá wɛ̀ » pour « avoir la diarrhée ». Adaptation au locuteur « je » à confirmer."
+  },
+  {
+    "symptom_id": "SYM-08",
+    "translation": "Un lá",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-v.html",
+    "source_note": "La source donne « E lá » = « Il a vomi ». Adaptation à la première personne à confirmer."
+  },
+  {
+    "symptom_id": "SYM-09",
+    "translation": "Jigbɔ́ ɖò títɔ́ mí wɛ̀",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-n.html",
+    "source_note": "Formulation attestée pour « J’ai des nausées. »"
+  },
+  {
+    "symptom_id": "SYM-10",
+    "translation": "Xomɛ̀ tɛ́",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/grammaire/familles_de_mots/famille_c_tous_les_mots.html",
+    "source_note": "Expression attestée pour « être constipé ». La phrase française longue doit être validée dans une formulation naturelle."
+  },
+  {
+    "symptom_id": "SYM-11",
+    "translation": "Un nɔ́ kpɛ́n dín",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/grammaire/les%20noms.html",
+    "source_note": "Candidat construit à partir de kpɛ́n = toux et de la construction habituelle. Validation native nécessaire."
+  },
+  {
+    "symptom_id": "SYM-12",
+    "translation": "Gbego ce nɔ vɛ́",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique%20fongbe-g.html",
+    "source_note": "Formulation attestée pour « J’ai mal à la gorge. »"
+  },
+  {
+    "symptom_id": "SYM-13",
+    "translation": "Awɔntín ce nɔ́ sìn",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-n.html",
+    "source_note": "Candidat construit autour de awɔntín = nez et de l’idée d’écoulement. Validation native nécessaire."
+  },
+  {
+    "symptom_id": "SYM-14",
+    "translation": "Ta ɖò ɖuɖu mi wɛ̀",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-t.html",
+    "source_note": "Formulation attestée pour « J’ai mal à la tête. »"
+  },
+  {
+    "symptom_id": "SYM-15",
+    "translation": "Nukún cé gbà zĭn",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-v.html",
+    "source_note": "Formulation attestée pour « J’ai des vertiges. »"
+  },
+  {
+    "symptom_id": "SYM-16",
+    "translation": "Winnyá hú mì",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-c.html",
+    "source_note": "Formulation attestée pour « Je suis confus. »"
+  },
+  {
+    "symptom_id": "SYM-17",
+    "translation": "Aɖɔ̀ mɛ́ mì",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-b.html",
+    "source_note": "Formulation attestée avec le sens « Les urines me brûlent. »"
+  },
+  {
+    "symptom_id": "SYM-18",
+    "translation": "Aɖɔ̆ gblá mì hwɛhwɛ̀",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/traduction/francais-fongbe/traduction-francais-fongbe-vocabulaireexpressions-u.html",
+    "source_note": "Candidat construit à partir de « avoir besoin d’uriner » et de « souvent ». Validation native nécessaire."
+  },
+  {
+    "symptom_id": "SYM-19",
+    "translation": "Aɖɔ̆ ce blŭ kɔ́",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/traduction/fongbe-francais/traductions-fongbe-francais-vocabulaires-a.html",
+    "source_note": "Candidat construit autour de aɖɔ̆ = urine et du vocabulaire attesté lié à l’aspect trouble. Validation native nécessaire."
+  },
+  {
+    "symptom_id": "SYM-20",
+    "translation": "Nɛgbedómɛ ce vɛ́",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/grammaire/familles_de_mots/famille_d_tous_les_mots.html",
+    "source_note": "Candidat construit à partir de Nɛgbedómɛ = creux du dos et du vocabulaire de la douleur."
+  },
+  {
+    "symptom_id": "SYM-21",
+    "translation": "É híhí wù nú mì",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-d.html",
+    "source_note": "Formulation attestée avec le sens « Ça me démange. »"
+  },
+  {
+    "symptom_id": "SYM-22",
+    "translation": "Un nɔ mɔ̀ nŭ flúflú",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-v.html",
+    "source_note": "Formulation attestée avec le sens « Je vois la chose trouble. » Utilisable comme base pour « Je vois flou » après validation native."
+  },
+  {
+    "symptom_id": "SYM-23",
+    "translation": "Kàn ce vɛ́",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/traduction/fongbe-francais/traductions-fongbe-francais-vocabulaires-k.html",
+    "source_note": "Candidat construit à partir de kàn = muscle et du vocabulaire attesté de la douleur."
+  },
+  {
+    "symptom_id": "SYM-24",
+    "translation": "Wutú ce vɛ́",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/grammaire/familles_de_mots/famille_b_tous_les_mots.html",
+    "source_note": "Candidat construit autour de wutú = corps et du vocabulaire attesté de la douleur. La nuance exacte « comme après un effort » reste à valider."
+  },
+  {
+    "symptom_id": "SYM-25",
+    "translation": "Akpa ce ɖò hùn dó wɛ̀ dín",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-s.html",
+    "source_note": "Candidat construit à partir de la formulation attestée « ma plaie saigne » et de l’expression de quantité. Validation native indispensable pour la phrase complète."
+  },
+  {
+    "symptom_id": "URG-01",
+    "translation": "Un nɔ́ gbɔ́jɛ́ nyidò",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-r.html",
+    "source_note": "Adaptation à la première personne d’une formulation attestée pour « Il respire mal ». À valider pour la formulation d’urgence."
+  },
+  {
+    "symptom_id": "URG-02",
+    "translation": "Un dăn mɛ",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/traduction/francais-fongbe/traduction-francais-fongbe-vocabulaireexpressions-p.html",
+    "source_note": "Adaptation candidate de l’expression attestée « perdre connaissance : dăn mε »."
+  },
+  {
+    "symptom_id": "URG-03",
+    "translation": "Akɔ́n ce vɛ́ dín",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/traduction/francais-fongbe/traduction-francais-fongbe-vocabulaireexpressions-p.html",
+    "source_note": "Candidat construit autour de akɔ́n = poitrine et du vocabulaire de la douleur forte."
+  },
+  {
+    "symptom_id": "URG-04",
+    "translation": "Nù zɔ́n jĭ",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/dictionnaire%20syntaxique/dictionnaire-syntaxique-fongbe-c.html",
+    "source_note": "Formulation source liée à « Il convulse ». La forme exacte à la première personne doit être validée."
+  },
+  {
+    "symptom_id": "URG-05",
+    "translation": "Kɔ̀ ce syɛ́n, avivɔ ɖò sinsin mi wɛ̀",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://fongbebenin.com/grammaire/familles_de_mots/famille_r_tous_les_mots.html",
+    "source_note": "Candidat construit à partir du vocabulaire attesté du cou/raideur et de la fièvre. Cette formulation d’urgence doit impérativement être validée par un locuteur natif."
+  }
+]

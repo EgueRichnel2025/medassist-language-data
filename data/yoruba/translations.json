@@ -1,1 +1,242 @@
-[]
+[
+  {
+    "symptom_id": "SYM-01",
+    "translation": "Mo ní ibà láti àná.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://evolang.info/grammar-guide/yoruba/yoruba-body-parts-medical-vocabulary-reference",
+    "source_note": "Candidat construit à partir de ibà = fièvre et d’une expression de temps. Validation native nécessaire."
+  },
+  {
+    "symptom_id": "SYM-02",
+    "translation": "Ara mi ńrìngbà.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://evolang.info/grammar-guide/yoruba/yoruba-body-parts-medical-vocabulary-reference",
+    "source_note": "Ríringbà est documenté pour les frissons. La forme phrastique doit être validée."
+  },
+  {
+    "symptom_id": "SYM-03",
+    "translation": "Ara mi ti rẹ̀ gan-an.",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://evolang.info/grammar-guide/yoruba/yoruba-body-parts-medical-vocabulary-reference",
+    "source_note": "Formulation documentée pour exprimer la fatigue."
+  },
+  {
+    "symptom_id": "SYM-04",
+    "translation": "Mi ò fẹ́ jẹun mọ́ rárá.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://yorubadictionary.yale.edu/",
+    "source_note": "Candidat pour exprimer l’absence totale d’appétit."
+  },
+  {
+    "symptom_id": "SYM-05",
+    "translation": "Mo ńlagun púpọ̀, kódà tí n kò bá ṣe ìsapá.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://www.memrise.com/en-us/learn-yoruba/yoruba-course/phrasebook/65802202710274/how-to-say-i-sweat-a-lot-in-yoruba",
+    "source_note": "La ressource documente l’idée « je transpire beaucoup ». La précision « même sans effort » est ajoutée."
+  },
+  {
+    "symptom_id": "SYM-06",
+    "translation": "Inú mi ńdùn mí.",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://evolang.info/grammar-guide/yoruba/yoruba-body-parts-medical-vocabulary-reference",
+    "source_note": "Formulation documentée pour le mal au ventre."
+  },
+  {
+    "symptom_id": "SYM-07",
+    "translation": "Ìgbẹ́ ńṣàn láti òwúrọ̀ yìí.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://evolang.info/grammar-guide/yoruba/yoruba-body-parts-medical-vocabulary-reference",
+    "source_note": "Ìgbẹ́ ńṣàn est documenté pour la diarrhée ; la précision temporelle est ajoutée."
+  },
+  {
+    "symptom_id": "SYM-08",
+    "translation": "Mo ti ńpọ̀sé lẹ́ẹ̀mejì lónìí.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://evolang.info/grammar-guide/yoruba/yoruba-body-parts-medical-vocabulary-reference",
+    "source_note": "La source documente une formulation pour le vomissement ; la durée et le nombre sont ajoutés."
+  },
+  {
+    "symptom_id": "SYM-09",
+    "translation": "Inú mi ńríro.",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://evolang.info/grammar-guide/yoruba/yoruba-body-parts-medical-vocabulary-reference",
+    "source_note": "Formulation documentée pour la nausée."
+  },
+  {
+    "symptom_id": "SYM-10",
+    "translation": "Mi ò lè lọ sí ilé ìgbọ̀nsẹ̀ fún ọjọ́ mẹ́ta.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://yorubadictionary.yale.edu/",
+    "source_note": "Candidat construit pour exprimer la constipation pendant trois jours."
+  },
+  {
+    "symptom_id": "SYM-11",
+    "translation": "Mo ńkọ́ púpọ̀.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://evolang.info/grammar-guide/yoruba/yoruba-body-parts-medical-vocabulary-reference",
+    "source_note": "Ìkọ́ est documenté pour la toux ; phrase construite pour « je tousse beaucoup »."
+  },
+  {
+    "symptom_id": "SYM-12",
+    "translation": "Ọ̀fun mi ńdùn mí.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://evolang.info/grammar-guide/yoruba/yoruba-body-parts-medical-vocabulary-reference",
+    "source_note": "Candidat construit avec ọ̀fun = gorge et la structure de douleur."
+  },
+  {
+    "symptom_id": "SYM-13",
+    "translation": "Imu mi ńṣàn láìdákẹ́.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://yorubadictionary.yale.edu/",
+    "source_note": "Candidat pour « mon nez coule sans arrêt »."
+  },
+  {
+    "symptom_id": "SYM-14",
+    "translation": "Orí mi ńfọ́ mí gan-an.",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://evolang.info/grammar-guide/yoruba/yoruba-body-parts-medical-vocabulary-reference",
+    "source_note": "La ressource documente Orí mi ńfọ́ pour le mal de tête ; intensité ajoutée."
+  },
+  {
+    "symptom_id": "SYM-15",
+    "translation": "Orí mi ńríyán nígbà tí mo bá dìde.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://evolang.info/grammar-guide/yoruba/yoruba-body-parts-medical-vocabulary-reference",
+    "source_note": "Orí ríyán est documenté pour les vertiges ; la circonstance est ajoutée."
+  },
+  {
+    "symptom_id": "SYM-16",
+    "translation": "Orí mi dàrú, mi ò lè ronú dáadáa.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://yorubadictionary.yale.edu/",
+    "source_note": "Candidat pour confusion et difficulté à réfléchir."
+  },
+  {
+    "symptom_id": "SYM-17",
+    "translation": "Ó ńjó mí nígbà tí mo bá ńtọ́.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://yorubadictionary.yale.edu/",
+    "source_note": "Candidat pour « ça brûle quand j’urine »."
+  },
+  {
+    "symptom_id": "SYM-18",
+    "translation": "Mo ńtọ́ lọ́pọ̀ ìgbà.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://yorubadictionary.yale.edu/",
+    "source_note": "Candidat pour l’envie fréquente d’uriner."
+  },
+  {
+    "symptom_id": "SYM-19",
+    "translation": "Ìtọ́ mi kò mọ́.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://yorubadictionary.yale.edu/",
+    "source_note": "Candidat pour « mon urine est trouble »."
+  },
+  {
+    "symptom_id": "SYM-20",
+    "translation": "Ẹ̀yìn ìsàlẹ̀ mi ńdùn mí.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://languagedrops.com/word/en/yoruba/english/translate/%E1%BA%B9%CC%80y%C3%ACn_d%C3%ADd%C3%B9n/",
+    "source_note": "La ressource documente ẹ̀yìn dídùn = backache ; précision du bas du dos ajoutée."
+  },
+  {
+    "symptom_id": "SYM-21",
+    "translation": "Ara mi ńyún káàkiri.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://glosbe.com/en/yo/itch",
+    "source_note": "ara yíyún est documenté pour itching ; phrase construite pour « partout »."
+  },
+  {
+    "symptom_id": "SYM-22",
+    "translation": "Ojú mi ńṣíṣú; mo ńrí láìdára.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://languagedrops.com/word/en/yoruba/topics/aches_%26_pains/",
+    "source_note": "La ressource documente ojú ṣíṣú = blurry vision."
+  },
+  {
+    "symptom_id": "SYM-23",
+    "translation": "Àwọn iṣan mi ńdùn mí.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://glosbe.com/yo/en/i%C3%BFan",
+    "source_note": "iÿan correspond à muscle ; phrase construite avec la structure de douleur."
+  },
+  {
+    "symptom_id": "SYM-24",
+    "translation": "Gbogbo ara mi ńdùn bí ẹni pé mo ti ṣiṣẹ́ takuntakun.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://yorubadictionary.yale.edu/",
+    "source_note": "Candidat pour les courbatures et douleurs corporelles après effort."
+  },
+  {
+    "symptom_id": "SYM-25",
+    "translation": "Mo ńjẹ̀jẹ̀ púpọ̀, kò sì dáwọ́ dúró.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://glosbe.com/yo/en/%E1%BA%B9%CC%80j%E1%BA%B9%CC%80",
+    "source_note": "Candidat construit autour de ẹ̀jẹ̀ = sang et de l’idée de saignement abondant et continu."
+  },
+  {
+    "symptom_id": "URG-01",
+    "translation": "Mímí ńira fún mi gan-an.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://healthcaredelivery.cancer.gov/pro-ctcae/instruments/pro-ctcae/pro-ctcae_yoruba.pdf",
+    "source_note": "Le NCI documente ÀÌLÉMÍ DÉLẸ́ pour shortness of breath. Phrase complète à valider."
+  },
+  {
+    "symptom_id": "URG-02",
+    "translation": "Ó dákú díẹ̀ sẹ́yìn.",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://pure.bangor.ac.uk/ws/portalfiles/portal/76953675/R_O_FARINDE_PhD_2006_-_OCR.pdf",
+    "source_note": "Le corpus contient daku pour « fainted / unconscious » ; formulation temporelle à confirmer."
+  },
+  {
+    "symptom_id": "URG-03",
+    "translation": "Àyà mi ńdùn mí gidigidi.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://www.yorubalibrary.com/culture/healing/05/ogun_aya_didun.html",
+    "source_note": "Àyà dídùn est documenté pour chest pain ; formulation complète construite."
+  },
+  {
+    "symptom_id": "URG-04",
+    "translation": "Ó ní giri.",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://citeseerx.ist.psu.edu/document?doi=96aa177622efa1711b61d22ec0ccf978b8176f1a&repid=rep1&type=pdf",
+    "source_note": "La documentation emploie giri pour les convulsions."
+  },
+  {
+    "symptom_id": "URG-05",
+    "translation": "Ọ̀rùn rẹ̀ ti le gan-an, ó sì ní ibà tó ga gan-an.",
+    "status": "constructed_candidate",
+    "needs_native_validation": true,
+    "source": "https://languagedrops.com/word/en/english/yoruba/translate/stiff_neck/",
+    "source_note": "ọrùn dídùn est documenté pour stiff neck ; ibà est documenté pour fever. Phrase d’urgence à valider."
+  }
+]

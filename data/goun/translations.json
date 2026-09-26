@@ -1,1 +1,242 @@
-[]
+[
+  {
+    "symptom_id": "SYM-01",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-02",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-03",
+    "translation": "Núcikɔ̀",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://www.bec.uac.bj/uploads/publication/e1a6fc5918cb209cfb5bf8ee8a304c5f.pdf",
+    "source_note": "Terme Gungbe documenté avec le sens « fatigue ». La phrase complète correspondante doit être validée."
+  },
+  {
+    "symptom_id": "SYM-04",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-05",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-06",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-07",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-08",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-09",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-10",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-11",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-12",
+    "translation": "Tà dù mi",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://www.mdpi.com/2226-471X/7/2/92",
+    "source_note": "Phrase Gungbe documentée avec le sens « I have a headache ». La formulation doit être validée pour notre phrase exacte."
+  },
+  {
+    "symptom_id": "SYM-13",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-14",
+    "translation": "Tà dù mi",
+    "status": "source_review",
+    "needs_native_validation": true,
+    "source": "https://www.mdpi.com/2226-471X/7/2/92",
+    "source_note": "Phrase Gungbe documentée avec le sens « I have a headache »."
+  },
+  {
+    "symptom_id": "SYM-15",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-16",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-17",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-18",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-19",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-20",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-21",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-22",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-23",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-24",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "SYM-25",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "URG-01",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": "https://fr.wiktionary.org/wiki/afuje",
+    "source_note": "Le terme afuje et un exemple lié à la respiration sont documentés en Gungbe ; la phrase d'urgence complète doit être validée."
+  },
+  {
+    "symptom_id": "URG-02",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "URG-03",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "URG-04",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  },
+  {
+    "symptom_id": "URG-05",
+    "translation": null,
+    "status": "pending_native_validation",
+    "needs_native_validation": true,
+    "source": null,
+    "source_note": "Formulation exacte à obtenir et valider auprès d'un locuteur Gungbe natif."
+  }
+]
