@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MedAssist Language Recording",
+  "type": "object",
+  "required": [
+    "recording_id",
+    "language",
+    "symptom_id",
+    "speaker_id",
+    "audio_file",
+    "created_at"
+  ],
+  "properties": {
+    "recording_id": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string",
+      "enum": [
+        "fon",
+        "goun",
+        "yoruba"
+      ]
+    },
+    "symptom_id": {
+      "type": "string"
+    },
+    "speaker_id": {
+      "type": "string"
+    },
+    "audio_file": {
+      "type": "string"
+    },
+    "duration_seconds": {
+      "type": "number",
+      "minimum": 0
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false
+}
