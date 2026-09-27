@@ -1,0 +1,24 @@
+
+# Backend
+web/backend/.venv/
+web/backend/__pycache__/
+web/backend/.env
+
+# Uploaded audio generated locally
+data/fon/audio/*
+data/goun/audio/*
+data/yoruba/audio/*
+!data/fon/audio/.gitkeep
+!data/goun/audio/.gitkeep
+!data/yoruba/audio/.gitkeep
+
+# Local uploaded recordings
+storage/audio/*
+!storage/audio/.gitkeep
+
+# Cloudflare Wrangler local cache
+web/backend/.wrangler/
+
+# Python bytecode caches
+**/__pycache__/
+**/*.py[cod]
