@@ -23,6 +23,7 @@ function App() {
 
   const [language, setLanguage] = useState('')
   const [assistId, setAssistId] = useState('')
+  const [accessToken, setAccessToken] = useState('')
   const [profile, setProfile] = useState(null)
   const [leaderboard, setLeaderboard] = useState([])
   const [challenge, setChallenge] = useState(null)
@@ -138,7 +139,30 @@ function App() {
         )
       }
 
+      if (!contributor.access_token) {
+        contributor = await createContributor(
+          clientId,
+        )
+
+        contributorId = contributor.assist_id
+
+        window.localStorage.setItem(
+          'medassist_backend_assist_id',
+          contributorId,
+        )
+      }
+
+      const token =
+        contributor.access_token || ''
+
+      if (!token) {
+        throw new Error(
+          "Le serveur n'a pas fourni de jeton d'authentification.",
+        )
+      }
+
       setAssistId(contributorId)
+      setAccessToken(token)
       setProfile(contributor)
 
       await refreshRanking(contributorId)
@@ -332,6 +356,7 @@ function App() {
         language: selectedLanguage.id,
         symptomId: currentPhrase.id,
         blob: recordingBlob,
+        accessToken,
       })
 
       await refreshRanking(assistId)
