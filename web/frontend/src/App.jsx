@@ -318,7 +318,19 @@ function App() {
       setRecordingState('recording')
 
       timerRef.current = window.setInterval(() => {
-        setSeconds((value) => value + 1)
+        setSeconds((value) => {
+          const next = value + 1
+
+          if (
+            next >= 10 &&
+            recorderRef.current &&
+            recorderRef.current.state === 'recording'
+          ) {
+            recorderRef.current.stop()
+          }
+
+          return next
+        })
       }, 1000)
     } catch (err) {
       console.error(err)
